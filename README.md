@@ -4,3 +4,5 @@
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YazidiNourhene/Analys_Numerique/main?filepath=TP2.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YazidiNourhene/Analys_Numerique/main?filepath=TP3.ipynb)
