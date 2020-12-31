@@ -9,4 +9,4 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YazidiNourhene/Analys_Numerique/main?filepath=Projet.ipynb)
 
-
+https://github.com/YazidiNourhene/Analys_Numerique/issues/new
